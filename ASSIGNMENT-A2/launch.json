@@ -7,7 +7,7 @@
         
         {
             "name": "Launch Program",
-            "program": "${workspaceFolder}/index.js",
+            "program": "${workspaceFolder}/shape.js",
             "request": "launch",
             "skipFiles": [
                 "<node_internals>/**"
@@ -21,7 +21,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\ASSIGNMENT-A2\\index.js"
+            "program": "${workspaceFolder}\\ASSIGNMENT-A2\\shape.js"
         }
     ]
 }
